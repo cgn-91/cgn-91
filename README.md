@@ -8,3 +8,5 @@
 * Design, development and implementation of interfaces with **Vue.js**
 * Making imagen with **Docker** and integrated in **AWS**
 * Code editor: **Vs code**
+
+My first personal project is [my website](https://www.cgndevelopments.com) and soon I will add more projects.
