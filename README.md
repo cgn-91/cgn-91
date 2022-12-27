@@ -1,5 +1,16 @@
 # Hi there, my name is Carlos García
-### I am currently working as a developer for an R&D project for the European community. The technologies I am using are the following:
+
+### 10/2022 - Currently For Arelance S.L. as Fullstack Junior Developer subcontracted programmer at Indra Company for an energy project.
+
+* Oracle database migration to PostgreSQL.
+* Maintenance and creation of algorithms.
+* Backend microservices architecture with Spring-Boot (Java).
+* Git version control with Azure Devops.
+* Source code editor: IntellJ.
+* Frontend with Vue.js.
+* Code editor:
+* Deployment of microservices on a machine in the cloud with Rancher and Docker.
+### 10/2021 - 10/2022 for an R&D project for the European community. The technologies who I have been using are the following:
 
 * Design of prototypes screens with ![Xd](https://img.shields.io/badge/Adobe_Xd-54096E?style=for-the-badge&logo=AdobeXd&logoColor=F213E8&labelColor=54096E)
 * Develop of **swagger** to the API in ![Json](https://img.shields.io/badge/JSON-137FF0?style=for-the-badge&logo=Json&logoColor=635A54&labelColor=white)
