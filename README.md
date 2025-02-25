@@ -1,10 +1,11 @@
 # Hi there, my name is Carlos García
 
-### 10/2022 - Currently For Arelance S.L. as Fullstack Junior Developer subcontracted programmer at Indra Company for an energy project.
+### 10/2022 - Currently For NTT Data. as  Developer.
 
 * Oracle database migration to PostgreSQL.
 * Maintenance and creation of algorithms.
 * Backend microservices architecture with Spring-Boot (Java).
+* Architecture Hexagonal
 * Git version control with Azure Devops.
 * Source code editor: IntellJ.
 * Frontend with Vue.js.
