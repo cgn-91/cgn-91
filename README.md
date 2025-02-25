@@ -1,6 +1,10 @@
 # Hi there, my name is Carlos García
 
-### 10/2022 - Currently For NTT Data. as  Developer.
+
+### 06/2024 - Currently For NTT Data. as  Developer.
+
+
+### 10/2022 - 03/2024 For Arelance as  Developer.
 
 * Oracle database migration to PostgreSQL.
 * Maintenance and creation of algorithms.
